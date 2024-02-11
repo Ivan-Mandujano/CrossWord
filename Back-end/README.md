@@ -1,4 +1,3 @@
 # Back-end
 Database Design to use in mongoDB: 
-![design](/DataBaseModel.png)
-
+![design](DataBaseModel.png)
